@@ -1,0 +1,850 @@
+{
+   "base": [
+      {
+         "cell": "sign_hearts",
+         "x": 68,
+         "y": 74,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "sign_spades",
+         "x": 1554,
+         "y": 74,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "sign_diamonds",
+         "x": 3040,
+         "y": 74,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "sign_clubs",
+         "x": 4526,
+         "y": 74,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "sign_joker",
+         "x": 6012,
+         "y": 74,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_2",
+         "x": 68,
+         "y": 2324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_3",
+         "x": 1554,
+         "y": 2324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_4",
+         "x": 3040,
+         "y": 2324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_5",
+         "x": 4526,
+         "y": 2324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_6",
+         "x": 6012,
+         "y": 2324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_7",
+         "x": 68,
+         "y": 4574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_8",
+         "x": 1554,
+         "y": 4574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_9",
+         "x": 3040,
+         "y": 4574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_10",
+         "x": 4526,
+         "y": 4574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "empty_2_4",
+         "x": 6012,
+         "y": 4574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_j",
+         "x": 68,
+         "y": 6824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_q",
+         "x": 1554,
+         "y": 6824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_k",
+         "x": 3040,
+         "y": 6824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_a",
+         "x": 4526,
+         "y": 6824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "text_joker",
+         "x": 6012,
+         "y": 6824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "hearts_img_a",
+         "x": 68,
+         "y": 9074,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "hearts_img_j",
+         "x": 1554,
+         "y": 9074,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "hearts_img_q",
+         "x": 3040,
+         "y": 9074,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "hearts_img_k",
+         "x": 4526,
+         "y": 9074,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "empty_4_4",
+         "x": 6012,
+         "y": 9074,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "spades_img_a",
+         "x": 68,
+         "y": 11324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "spades_img_j",
+         "x": 1554,
+         "y": 11324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "spades_img_q",
+         "x": 3040,
+         "y": 11324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "spades_img_k",
+         "x": 4526,
+         "y": 11324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "empty_5_4",
+         "x": 6012,
+         "y": 11324,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "diamonds_img_a",
+         "x": 68,
+         "y": 13574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "diamonds_img_j",
+         "x": 1554,
+         "y": 13574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "diamonds_img_q",
+         "x": 3040,
+         "y": 13574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "diamonds_img_k",
+         "x": 4526,
+         "y": 13574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "deck_front",
+         "x": 6012,
+         "y": 13574,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "clubs_img_a",
+         "x": 68,
+         "y": 15824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "clubs_img_j",
+         "x": 1554,
+         "y": 15824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "clubs_img_q",
+         "x": 3040,
+         "y": 15824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "clubs_img_k",
+         "x": 4526,
+         "y": 15824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "deck_back",
+         "x": 6012,
+         "y": 15824,
+         "width": 1350,
+         "height": 2100
+      },
+      {
+         "cell": "sprite_hearts",
+         "x": 6240,
+         "y": 5280,
+         "width": 320,
+         "height": 320
+      },
+      {
+         "cell": "sprite_spades",
+         "x": 6800,
+         "y": 5280,
+         "width": 320,
+         "height": 320
+      },
+      {
+         "cell": "sprite_clubs",
+         "x": 6240,
+         "y": 5640,
+         "width": 320,
+         "height": 320
+      },
+      {
+         "cell": "sprite_diamonds",
+         "x": 6800,
+         "y": 5640,
+         "width": 320,
+         "height": 320
+      }
+   ],
+   "cards": [
+      {
+         "hearts_2": [
+            "deck_front",
+            "sign_hearts",
+            "text_2",
+            [
+               "sprite_hearts",
+               2
+            ]
+         ]
+      },
+      {
+         "hearts_3": [
+            "deck_front",
+            "sign_hearts",
+            "text_3",
+            [
+               "sprite_hearts",
+               3
+            ]
+         ]
+      },
+      {
+         "hearts_4": [
+            "deck_front",
+            "sign_hearts",
+            "text_4",
+            [
+               "sprite_hearts",
+               4
+            ]
+         ]
+      },
+      {
+         "hearts_5": [
+            "deck_front",
+            "sign_hearts",
+            "text_5",
+            [
+               "sprite_hearts",
+               5
+            ]
+         ]
+      },
+      {
+         "hearts_6": [
+            "deck_front",
+            "sign_hearts",
+            "text_6",
+            [
+               "sprite_hearts",
+               6
+            ]
+         ]
+      },
+      {
+         "hearts_7": [
+            "deck_front",
+            "sign_hearts",
+            "text_7",
+            [
+               "sprite_hearts",
+               7
+            ]
+         ]
+      },
+      {
+         "hearts_8": [
+            "deck_front",
+            "sign_hearts",
+            "text_8",
+            [
+               "sprite_hearts",
+               8
+            ]
+         ]
+      },
+      {
+         "hearts_9": [
+            "deck_front",
+            "sign_hearts",
+            "text_9",
+            [
+               "sprite_hearts",
+               9
+            ]
+         ]
+      },
+      {
+         "hearts_10": [
+            "deck_front",
+            "sign_hearts",
+            "text_10",
+            [
+               "sprite_hearts",
+               10
+            ]
+         ]
+      },
+      {
+         "hearts_j": [
+            "deck_front",
+            "hearts_img_j",
+            "sign_hearts",
+            "text_j"
+         ]
+      },
+      {
+         "hearts_q": [
+            "deck_front",
+            "hearts_img_q",
+            "sign_hearts",
+            "text_q"
+         ]
+      },
+      {
+         "hearts_k": [
+            "deck_front",
+            "hearts_img_k",
+            "sign_hearts",
+            "text_k"
+         ]
+      },
+      {
+         "hearts_a": [
+            "deck_front",
+            "hearts_img_a",
+            "sign_hearts",
+            "text_a"
+         ]
+      },
+      {
+         "spades_2": [
+            "deck_front",
+            "sign_spades",
+            "text_2",
+            [
+               "sprite_spades",
+               2
+            ]
+         ]
+      },
+      {
+         "spades_3": [
+            "deck_front",
+            "sign_spades",
+            "text_3",
+            [
+               "sprite_spades",
+               3
+            ]
+         ]
+      },
+      {
+         "spades_4": [
+            "deck_front",
+            "sign_spades",
+            "text_4",
+            [
+               "sprite_spades",
+               4
+            ]
+         ]
+      },
+      {
+         "spades_5": [
+            "deck_front",
+            "sign_spades",
+            "text_5",
+            [
+               "sprite_spades",
+               5
+            ]
+         ]
+      },
+      {
+         "spades_6": [
+            "deck_front",
+            "sign_spades",
+            "text_6",
+            [
+               "sprite_spades",
+               6
+            ]
+         ]
+      },
+      {
+         "spades_7": [
+            "deck_front",
+            "sign_spades",
+            "text_7",
+            [
+               "sprite_spades",
+               7
+            ]
+         ]
+      },
+      {
+         "spades_8": [
+            "deck_front",
+            "sign_spades",
+            "text_8",
+            [
+               "sprite_spades",
+               8
+            ]
+         ]
+      },
+      {
+         "spades_9": [
+            "deck_front",
+            "sign_spades",
+            "text_9",
+            [
+               "sprite_spades",
+               9
+            ]
+         ]
+      },
+      {
+         "spades_10": [
+            "deck_front",
+            "sign_spades",
+            "text_10",
+            [
+               "sprite_spades",
+               10
+            ]
+         ]
+      },
+      {
+         "spades_j": [
+            "deck_front",
+            "spades_img_j",
+            "sign_spades",
+            "text_j"
+         ]
+      },
+      {
+         "spades_q": [
+            "deck_front",
+            "spades_img_q",
+            "sign_spades",
+            "text_q"
+         ]
+      },
+      {
+         "spades_k": [
+            "deck_front",
+            "spades_img_k",
+            "sign_spades",
+            "text_k"
+         ]
+      },
+      {
+         "spades_a": [
+            "deck_front",
+            "spades_img_a",
+            "sign_spades",
+            "text_a"
+         ]
+      },
+      {
+         "diamonds_2": [
+            "deck_front",
+            "sign_diamonds",
+            "text_2",
+            [
+               "sprite_diamonds",
+               2
+            ]
+         ]
+      },
+      {
+         "diamonds_3": [
+            "deck_front",
+            "sign_diamonds",
+            "text_3",
+            [
+               "sprite_diamonds",
+               3
+            ]
+         ]
+      },
+      {
+         "diamonds_4": [
+            "deck_front",
+            "sign_diamonds",
+            "text_4",
+            [
+               "sprite_diamonds",
+               4
+            ]
+         ]
+      },
+      {
+         "diamonds_5": [
+            "deck_front",
+            "sign_diamonds",
+            "text_5",
+            [
+               "sprite_diamonds",
+               5
+            ]
+         ]
+      },
+      {
+         "diamonds_6": [
+            "deck_front",
+            "sign_diamonds",
+            "text_6",
+            [
+               "sprite_diamonds",
+               6
+            ]
+         ]
+      },
+      {
+         "diamonds_7": [
+            "deck_front",
+            "sign_diamonds",
+            "text_7",
+            [
+               "sprite_diamonds",
+               7
+            ]
+         ]
+      },
+      {
+         "diamonds_8": [
+            "deck_front",
+            "sign_diamonds",
+            "text_8",
+            [
+               "sprite_diamonds",
+               8
+            ]
+         ]
+      },
+      {
+         "diamonds_9": [
+            "deck_front",
+            "sign_diamonds",
+            "text_9",
+            [
+               "sprite_diamonds",
+               9
+            ]
+         ]
+      },
+      {
+         "diamonds_10": [
+            "deck_front",
+            "sign_diamonds",
+            "text_10",
+            [
+               "sprite_diamonds",
+               10
+            ]
+         ]
+      },
+      {
+         "diamonds_j": [
+            "deck_front",
+            "diamonds_img_j",
+            "sign_diamonds",
+            "text_j"
+         ]
+      },
+      {
+         "diamonds_q": [
+            "deck_front",
+            "diamonds_img_q",
+            "sign_diamonds",
+            "text_q"
+         ]
+      },
+      {
+         "diamonds_k": [
+            "deck_front",
+            "diamonds_img_k",
+            "sign_diamonds",
+            "text_k"
+         ]
+      },
+      {
+         "diamonds_a": [
+            "deck_front",
+            "diamonds_img_a",
+            "sign_diamonds",
+            "text_a"
+         ]
+      },
+      {
+         "clubs_2": [
+            "deck_front",
+            "sign_clubs",
+            "text_2",
+            [
+               "sprite_clubs",
+               2
+            ]
+         ]
+      },
+      {
+         "clubs_3": [
+            "deck_front",
+            "sign_clubs",
+            "text_3",
+            [
+               "sprite_clubs",
+               3
+            ]
+         ]
+      },
+      {
+         "clubs_4": [
+            "deck_front",
+            "sign_clubs",
+            "text_4",
+            [
+               "sprite_clubs",
+               4
+            ]
+         ]
+      },
+      {
+         "clubs_5": [
+            "deck_front",
+            "sign_clubs",
+            "text_5",
+            [
+               "sprite_clubs",
+               5
+            ]
+         ]
+      },
+      {
+         "clubs_6": [
+            "deck_front",
+            "sign_clubs",
+            "text_6",
+            [
+               "sprite_clubs",
+               6
+            ]
+         ]
+      },
+      {
+         "clubs_7": [
+            "deck_front",
+            "sign_clubs",
+            "text_7",
+            [
+               "sprite_clubs",
+               7
+            ]
+         ]
+      },
+      {
+         "clubs_8": [
+            "deck_front",
+            "sign_clubs",
+            "text_8",
+            [
+               "sprite_clubs",
+               8
+            ]
+         ]
+      },
+      {
+         "clubs_9": [
+            "deck_front",
+            "sign_clubs",
+            "text_9",
+            [
+               "sprite_clubs",
+               9
+            ]
+         ]
+      },
+      {
+         "clubs_10": [
+            "deck_front",
+            "sign_clubs",
+            "text_10",
+            [
+               "sprite_clubs",
+               10
+            ]
+         ]
+      },
+      {
+         "clubs_j": [
+            "deck_front",
+            "clubs_img_j",
+            "sign_clubs",
+            "text_j"
+         ]
+      },
+      {
+         "clubs_q": [
+            "deck_front",
+            "clubs_img_q",
+            "sign_clubs",
+            "text_q"
+         ]
+      },
+      {
+         "clubs_k": [
+            "deck_front",
+            "clubs_img_k",
+            "sign_clubs",
+            "text_k"
+         ]
+      },
+      {
+         "clubs_a": [
+            "deck_front",
+            "clubs_img_a",
+            "sign_clubs",
+            "text_a"
+         ]
+      },
+      {
+         "joker": [
+            "deck_front",
+            "sign_joker",
+            "text_joker"
+         ]
+      },
+      {
+         "full_deck_back": [
+            "deck_back"
+         ]
+      }	  
+   ]
+}
