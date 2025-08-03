@@ -25,7 +25,7 @@ pip install pillow
 
 2. Create your own design (use the template.svg for example)
 
-3. Save your template az template.png (7431×18000 px)
+3. Save your template as template.png (7431×18000 px)
 
 4. Run the script
 python start.py
