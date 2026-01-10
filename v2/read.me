@@ -1,0 +1,65 @@
+🃏 def-card-generator v2
+
+Python script for generating printable playing cards from a sprite-based template, combining suit/rank icons with either a common front or per-suit backgrounds.
+
+Designed for projects like custom decks, AI art series, or stylized card games.
+Originally developed for the DarkEggFactory fantasy brand.
+
+📂 Files included
+File	Purpose
+template/template.png	Sprite sheet (9×2) containing suit icons, ranks 2–10, J, Q, K, A, and JOKER
+template/card_front.png	(Optional) Common background for all cards
+template/spades_bg.png / hearts_bg.png / clubs_bg.png / diamonds_bg.png	(Optional) Per-suit backgrounds
+start.py	Main script – generates the full deck into /fulldeck/
+preview.py	Shuffles the generated deck randomly and creates a showcase.png image showing all cards
+requirements.txt	Python dependencies (Pillow)
+🚀 How to use
+
+Install Python 3.7+ and dependencies:
+
+pip install pillow
+
+
+Prepare your template assets
+
+Place template.png inside the template/ folder (sprite sheet with ranks & suits).
+
+Optionally add card_front.png or per-suit {suit}_bg.png backgrounds.
+
+Generate the deck
+
+python start.py
+
+
+All PNGs will be saved in the fulldeck/ directory.
+
+The script outputs a standard 54-card deck (A–K in 4 suits + 2 jokers).
+
+Create a deck preview
+
+python preview.py
+
+
+Randomizes the order of the cards and produces a showcase.png file with the entire shuffled deck in a grid layout.
+
+✨ Features
+
+Generates full decks (54 cards including 2 jokers)
+
+Supports:
+
+Common background for all cards (card_front.png)
+
+Per-suit backgrounds ({suit}_bg.png)
+
+Custom pip layouts for numeric ranks
+
+Special center graphics for A, J, Q, K
+
+Automatic resizing and positioning of icons
+
+Deck preview tool (preview.py) for quick showcases
+
+📜 License
+
+MIT License — free to use, modify, and adapt for your own projects.
